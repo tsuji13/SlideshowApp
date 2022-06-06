@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AB17A90C284DBCAC00F2C63F /* ZoomImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB17A90B284DBCAC00F2C63F /* ZoomImageViewController.swift */; };
 		AB93BCFE2849D1010026C2AE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB93BCFD2849D1010026C2AE /* AppDelegate.swift */; };
 		AB93BD002849D1010026C2AE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB93BCFF2849D1010026C2AE /* SceneDelegate.swift */; };
 		AB93BD022849D1010026C2AE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB93BD012849D1010026C2AE /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AB17A90B284DBCAC00F2C63F /* ZoomImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ZoomImageViewController.swift; sourceTree = "<group>"; };
 		AB93BCFA2849D1010026C2AE /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB93BCFD2849D1010026C2AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AB93BCFF2849D1010026C2AE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				AB93BD062849D1020026C2AE /* Assets.xcassets */,
 				AB93BD082849D1020026C2AE /* LaunchScreen.storyboard */,
 				AB93BD0B2849D1020026C2AE /* Info.plist */,
+				AB17A90B284DBCAC00F2C63F /* ZoomImageViewController.swift */,
 			);
 			path = SlideshowApp;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 				AB93BD022849D1010026C2AE /* ViewController.swift in Sources */,
 				AB93BCFE2849D1010026C2AE /* AppDelegate.swift in Sources */,
 				AB93BD002849D1010026C2AE /* SceneDelegate.swift in Sources */,
+				AB17A90C284DBCAC00F2C63F /* ZoomImageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
