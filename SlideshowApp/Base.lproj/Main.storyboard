@@ -63,13 +63,6 @@
                                     <action selector="slideShowButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="uB8-3Q-v8N"/>
                                 </connections>
                             </button>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GCX-wM-PGu">
-                                <rect key="frame" x="186" y="196" width="42" height="116"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <nil key="textColor"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
@@ -87,7 +80,6 @@
                     <connections>
                         <outlet property="backButton" destination="aBL-KO-goZ" id="5tp-7t-KWu"/>
                         <outlet property="nextButton" destination="0k4-te-G7c" id="JYX-ZW-zR6"/>
-                        <outlet property="samplelabel" destination="GCX-wM-PGu" id="KYA-wn-zRQ"/>
                         <outlet property="slideButton" destination="Ed5-L7-OUG" id="inu-vI-JbF"/>
                         <outlet property="slideImage" destination="D8t-3a-WJS" id="9iG-lz-nrm"/>
                     </connections>
